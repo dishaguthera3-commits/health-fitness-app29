@@ -1,0 +1,251 @@
+age,gender,height,weight,water_cups,exercise_level,calories,protein_g,fat_g,carb_g,cardio_plan,strength_plan,mobility_plan
+18,female,161.7,52.6,10,sedentary,2321,63,65,290,walking,resistance bands,pilates
+31,male,160.3,76.0,11,moderate,2181,114,43,194,swimming,resistance bands,pilates
+24,male,152.4,50.9,5,very active,2210,61,50,223,cycling,bodyweight,stretching
+31,male,159.9,58.5,12,moderate,2292,70,59,258,swimming,bodyweight,stretching
+21,male,162.7,80.4,3,active,1985,129,42,173,running,resistance bands,stretching
+18,female,151.0,81.5,7,moderate,1897,130,36,147,swimming,split routine,stretching
+36,female,168.0,68.2,6,light,2018,82,64,205,jogging,bodyweight,yoga
+29,male,190.5,83.2,3,very active,2170,100,44,280,HIIT,split routine,pilates
+40,male,172.9,66.7,11,moderate,2099,80,45,227,HIIT,resistance bands,stretching
+25,male,168.8,73.2,9,sedentary,1843,110,60,193,HIIT,bodyweight,stretching
+20,female,149.8,61.9,12,sedentary,2169,93,38,249,HIIT,gym full-body,dynamic warmup
+28,male,193.2,66.9,3,light,2370,107,55,336,swimming,split routine,dynamic warmup
+20,male,174.7,54.5,3,sedentary,2585,87,51,264,walking,split routine,pilates
+24,male,157.8,69.0,6,very active,1944,104,49,226,running,bodyweight,pilates
+19,male,166.5,83.6,6,moderate,1820,134,40,209,swimming,bodyweight,stretching
+32,female,150.0,59.3,11,very active,1933,89,45,243,swimming,gym full-body,dynamic warmup
+26,female,147.2,48.7,7,light,2239,58,40,204,walking,gym full-body,yoga
+32,male,168.3,70.3,4,moderate,2132,84,63,216,running,gym full-body,dynamic warmup
+20,male,173.1,66.0,11,moderate,2228,79,43,236,cycling,bodyweight,stretching
+32,female,165.8,51.9,7,light,2365,62,57,212,running,split routine,dynamic warmup
+35,female,163.7,38.7,12,light,2615,62,64,265,swimming,bodyweight,yoga
+34,female,175.5,42.8,4,light,2342,68,70,296,walking,resistance bands,yoga
+26,female,171.1,55.1,3,very active,2350,66,45,258,cycling,resistance bands,stretching
+32,female,161.4,58.2,7,sedentary,2064,70,56,270,walking,resistance bands,dynamic warmup
+29,male,180.1,70.8,3,very active,2125,85,48,273,swimming,split routine,stretching
+34,male,167.6,70.6,6,moderate,2073,106,41,163,jogging,resistance bands,stretching
+32,male,161.3,66.6,9,light,2132,100,37,207,walking,gym full-body,pilates
+27,male,175.0,66.3,3,moderate,2159,80,48,276,swimming,resistance bands,pilates
+32,female,157.9,57.7,5,very active,2158,69,56,260,swimming,gym full-body,dynamic warmup
+32,female,160.1,52.8,9,sedentary,2099,63,54,298,running,split routine,stretching
+19,male,170.9,71.0,11,sedentary,2422,85,41,207,running,bodyweight,yoga
+28,male,171.7,69.9,3,active,2453,84,54,255,cycling,gym full-body,dynamic warmup
+35,female,159.0,64.5,5,moderate,1925,97,46,202,HIIT,split routine,dynamic warmup
+35,female,155.9,58.2,9,moderate,2144,70,56,240,HIIT,resistance bands,stretching
+35,male,168.7,64.7,11,light,2040,78,44,239,running,bodyweight,pilates
+27,male,169.7,71.0,12,moderate,2090,85,58,259,walking,gym full-body,pilates
+32,female,171.2,59.3,7,moderate,2176,71,55,217,swimming,split routine,pilates
+32,female,160.2,65.6,3,very active,2068,98,46,221,cycling,split routine,dynamic warmup
+30,female,160.6,63.2,9,moderate,2480,76,54,203,swimming,gym full-body,dynamic warmup
+37,male,174.5,74.3,12,light,2364,89,61,255,HIIT,resistance bands,yoga
+35,female,170.0,43.9,3,active,2665,70,58,312,running,bodyweight,yoga
+40,female,158.1,77.4,12,very active,1600,124,40,131,jogging,split routine,dynamic warmup
+33,male,168.8,71.3,9,very active,1807,107,45,183,cycling,gym full-body,pilates
+22,female,156.9,48.5,9,very active,2166,58,61,272,cycling,gym full-body,stretching
+35,female,164.3,66.4,4,sedentary,2238,80,57,279,swimming,bodyweight,stretching
+38,male,179.9,78.4,4,active,2243,94,43,283,cycling,split routine,stretching
+40,male,177.0,58.6,12,light,2055,70,65,255,cycling,gym full-body,dynamic warmup
+20,female,156.8,60.6,7,active,2083,73,46,273,cycling,gym full-body,stretching
+19,female,164.9,65.8,11,active,2417,79,59,209,walking,resistance bands,yoga
+26,male,169.5,65.6,11,light,2339,79,53,278,walking,gym full-body,dynamic warmup
+24,female,168.2,64.9,6,moderate,2045,78,60,202,swimming,bodyweight,pilates
+34,female,157.3,62.7,10,sedentary,1994,94,50,189,running,resistance bands,yoga
+20,female,153.2,46.9,3,active,2390,56,42,284,swimming,gym full-body,pilates
+22,male,172.7,83.8,6,active,1879,126,54,152,HIIT,bodyweight,dynamic warmup
+40,male,181.3,56.7,4,moderate,2335,91,61,271,running,resistance bands,dynamic warmup
+25,female,160.7,64.8,11,active,1939,97,41,174,swimming,resistance bands,dynamic warmup
+18,female,151.0,70.4,7,very active,1720,113,47,122,cycling,gym full-body,yoga
+21,female,164.8,69.1,3,moderate,1958,104,41,212,swimming,gym full-body,pilates
+28,male,159.9,80.9,5,very active,1879,129,38,215,swimming,resistance bands,stretching
+40,male,171.0,77.6,8,very active,1861,116,45,223,cycling,split routine,pilates
+20,male,168.3,70.5,12,light,2339,85,53,232,swimming,split routine,pilates
+28,female,159.8,63.1,6,sedentary,2191,76,65,217,walking,gym full-body,stretching
+18,female,166.8,64.7,5,light,2218,78,45,271,jogging,resistance bands,dynamic warmup
+24,female,169.1,62.0,6,sedentary,2450,74,44,280,cycling,resistance bands,stretching
+32,male,188.7,76.4,11,very active,2412,92,60,248,running,gym full-body,dynamic warmup
+32,male,167.6,98.0,7,sedentary,1805,157,33,162,HIIT,gym full-body,dynamic warmup
+36,female,166.5,48.4,3,light,2452,77,61,252,jogging,bodyweight,stretching
+33,male,175.2,49.5,6,moderate,2263,79,56,270,jogging,bodyweight,yoga
+40,female,152.6,66.0,9,sedentary,2009,99,35,166,running,resistance bands,yoga
+24,male,170.7,57.2,12,active,2354,69,44,275,HIIT,resistance bands,yoga
+35,male,174.3,59.2,5,light,2383,71,63,242,HIIT,bodyweight,dynamic warmup
+32,female,157.6,39.2,4,very active,2692,63,55,262,cycling,bodyweight,dynamic warmup
+30,female,149.6,56.5,11,active,2020,85,48,237,HIIT,gym full-body,stretching
+29,male,167.2,70.8,4,light,2145,106,35,168,HIIT,resistance bands,yoga
+36,male,166.2,76.6,11,active,1952,115,51,189,HIIT,split routine,stretching
+37,male,173.7,63.8,11,very active,2456,77,55,223,cycling,bodyweight,pilates
+37,female,161.6,72.0,12,active,1839,108,58,208,HIIT,gym full-body,pilates
+39,female,162.0,51.2,4,active,2137,61,53,293,walking,gym full-body,pilates
+19,male,173.9,71.1,12,very active,2064,85,41,206,swimming,bodyweight,dynamic warmup
+27,male,170.7,80.3,6,moderate,1893,120,42,169,HIIT,gym full-body,dynamic warmup
+19,female,145.8,59.5,11,light,2094,89,38,244,swimming,split routine,pilates
+33,male,168.2,64.5,8,light,2137,77,42,260,cycling,gym full-body,dynamic warmup
+19,male,159.9,75.9,4,light,2053,114,57,250,running,resistance bands,stretching
+39,female,174.3,49.6,8,sedentary,2401,79,69,302,walking,bodyweight,yoga
+20,female,159.9,57.7,6,light,2112,69,45,268,swimming,bodyweight,pilates
+32,male,169.6,79.7,8,very active,1859,120,40,191,walking,split routine,yoga
+18,female,180.1,59.8,12,sedentary,2544,96,56,301,swimming,resistance bands,dynamic warmup
+40,female,165.9,54.7,4,light,2005,66,56,277,jogging,gym full-body,pilates
+40,male,164.5,80.2,8,active,2170,120,42,242,jogging,split routine,stretching
+30,female,153.2,53.4,5,sedentary,2202,64,46,295,walking,gym full-body,pilates
+40,male,170.7,78.0,5,sedentary,1933,117,55,164,swimming,bodyweight,stretching
+25,female,158.6,69.1,10,active,2028,104,45,244,jogging,resistance bands,dynamic warmup
+24,male,173.2,83.8,4,light,1872,126,46,182,jogging,gym full-body,pilates
+19,male,174.1,71.1,5,sedentary,2423,85,52,300,swimming,bodyweight,pilates
+25,male,170.8,73.1,3,sedentary,2004,110,53,202,walking,gym full-body,dynamic warmup
+22,male,165.6,84.9,7,very active,1975,136,47,168,cycling,bodyweight,yoga
+40,male,174.2,60.1,11,moderate,2188,72,48,268,HIIT,bodyweight,dynamic warmup
+40,male,164.2,65.6,11,moderate,2339,79,45,208,cycling,gym full-body,yoga
+24,male,188.4,85.3,4,very active,2206,102,42,215,swimming,gym full-body,pilates
+26,female,149.7,65.2,9,light,2087,98,35,227,swimming,resistance bands,dynamic warmup
+28,male,162.6,67.9,4,very active,1807,102,59,207,walking,bodyweight,pilates
+26,male,166.2,76.5,10,light,2116,115,43,241,swimming,gym full-body,pilates
+27,male,168.9,77.5,4,sedentary,1974,116,51,159,cycling,bodyweight,stretching
+39,male,163.9,77.9,11,light,2095,117,59,181,walking,split routine,yoga
+24,female,155.6,70.1,11,moderate,1802,105,53,218,HIIT,bodyweight,pilates
+33,male,179.1,71.8,4,sedentary,2037,86,54,294,jogging,bodyweight,yoga
+40,male,174.1,73.7,5,very active,2385,88,63,247,jogging,gym full-body,yoga
+33,male,166.8,50.4,11,sedentary,2334,81,60,256,walking,gym full-body,stretching
+20,female,172.0,66.0,6,active,2144,79,64,216,HIIT,resistance bands,stretching
+26,female,161.6,57.9,12,moderate,2457,69,58,261,swimming,gym full-body,yoga
+40,male,171.2,72.9,11,moderate,2180,87,57,261,swimming,bodyweight,dynamic warmup
+28,male,167.8,61.1,12,light,2211,73,42,213,cycling,bodyweight,yoga
+19,male,167.5,72.3,4,active,1883,108,36,178,running,resistance bands,pilates
+30,male,174.2,56.6,3,very active,2460,68,53,232,HIIT,split routine,yoga
+30,female,146.1,66.8,10,light,1839,107,49,207,HIIT,resistance bands,dynamic warmup
+28,female,172.5,44.8,3,very active,2369,72,58,314,walking,bodyweight,yoga
+36,male,172.3,78.4,10,very active,2013,118,53,161,swimming,gym full-body,pilates
+25,male,170.0,83.3,6,moderate,2106,125,40,224,swimming,bodyweight,dynamic warmup
+18,male,174.0,75.2,8,sedentary,2475,90,56,224,jogging,resistance bands,yoga
+23,male,175.9,72.3,4,sedentary,2420,87,51,279,walking,bodyweight,yoga
+33,male,174.7,76.7,9,very active,1963,115,54,164,jogging,bodyweight,yoga
+28,male,170.4,67.7,6,moderate,2112,81,52,254,walking,split routine,pilates
+23,male,180.3,57.9,12,very active,2675,93,65,273,HIIT,split routine,yoga
+26,male,161.7,79.3,3,very active,1937,127,53,174,HIIT,gym full-body,dynamic warmup
+37,male,171.4,62.4,4,very active,2303,75,50,223,jogging,resistance bands,yoga
+26,male,152.9,67.1,4,very active,1922,101,46,238,cycling,bodyweight,stretching
+26,female,161.8,64.2,9,very active,2401,77,45,273,jogging,gym full-body,yoga
+26,female,162.4,50.3,11,moderate,2010,60,62,223,cycling,resistance bands,yoga
+37,female,159.1,57.7,4,very active,2304,69,42,296,walking,gym full-body,stretching
+27,male,184.2,59.5,12,sedentary,2603,95,55,268,walking,resistance bands,pilates
+37,female,175.1,52.2,6,light,2621,84,55,309,cycling,gym full-body,stretching
+34,female,150.3,51.2,7,moderate,2467,61,49,289,swimming,resistance bands,pilates
+20,female,150.2,64.6,3,active,1947,97,45,226,swimming,gym full-body,pilates
+30,female,161.1,69.3,7,sedentary,1935,104,47,245,HIIT,split routine,pilates
+18,male,169.6,78.7,5,light,2076,118,59,176,running,resistance bands,dynamic warmup
+30,female,167.1,61.1,9,moderate,2245,73,42,219,HIIT,bodyweight,pilates
+26,female,159.8,51.0,4,active,2340,61,63,228,walking,resistance bands,dynamic warmup
+30,male,173.0,75.3,8,active,2049,113,49,248,jogging,bodyweight,dynamic warmup
+39,female,160.7,47.0,4,sedentary,2279,75,63,318,jogging,gym full-body,dynamic warmup
+38,female,165.5,51.0,9,moderate,2265,61,65,209,running,bodyweight,dynamic warmup
+31,female,174.2,69.4,8,active,2080,83,63,299,HIIT,split routine,pilates
+22,male,177.3,82.6,12,light,2003,124,44,218,running,gym full-body,pilates
+40,female,160.0,73.7,3,sedentary,1987,111,49,212,swimming,resistance bands,yoga
+30,male,164.8,76.0,8,light,1983,114,37,191,jogging,gym full-body,yoga
+36,male,170.0,65.4,11,light,2012,78,44,201,jogging,gym full-body,dynamic warmup
+36,female,168.6,78.5,5,active,2075,118,43,199,cycling,gym full-body,dynamic warmup
+30,male,177.4,84.6,10,active,1930,127,42,241,swimming,bodyweight,dynamic warmup
+18,female,145.2,59.8,5,sedentary,2183,90,50,192,running,split routine,pilates
+22,male,158.3,73.9,12,sedentary,1926,111,60,243,walking,split routine,stretching
+20,female,164.1,60.6,7,active,2418,73,44,272,walking,resistance bands,yoga
+40,female,143.6,70.7,5,active,1807,113,47,191,running,bodyweight,pilates
+22,male,182.6,76.3,8,light,2063,92,62,271,swimming,gym full-body,pilates
+40,female,142.3,67.4,11,very active,1662,108,51,210,cycling,gym full-body,stretching
+37,male,175.9,71.8,9,active,2063,86,48,227,running,resistance bands,stretching
+19,female,166.0,60.0,10,sedentary,2234,72,55,288,running,resistance bands,pilates
+39,female,158.7,51.5,7,moderate,2359,62,45,267,running,gym full-body,yoga
+20,female,172.1,66.9,8,active,2342,80,55,220,swimming,split routine,stretching
+34,female,158.8,38.6,3,sedentary,2298,62,60,344,walking,resistance bands,yoga
+27,male,167.5,75.3,4,sedentary,1893,113,59,160,walking,resistance bands,dynamic warmup
+26,female,156.3,54.6,7,light,2448,66,62,206,jogging,gym full-body,pilates
+37,male,176.7,73.6,11,sedentary,2231,88,52,226,swimming,split routine,pilates
+35,male,160.0,85.4,3,very active,1636,137,42,214,running,resistance bands,stretching
+24,male,176.8,71.7,7,sedentary,2324,86,40,213,swimming,resistance bands,pilates
+19,male,185.9,65.9,5,light,2317,79,57,200,running,split routine,stretching
+36,male,177.6,60.1,12,sedentary,2396,72,53,213,running,split routine,pilates
+20,female,163.8,55.4,12,moderate,2097,66,44,204,walking,gym full-body,pilates
+28,male,170.3,79.1,4,light,1922,119,36,220,walking,resistance bands,pilates
+36,male,169.8,83.2,12,very active,1962,125,41,237,running,gym full-body,yoga
+18,male,161.6,80.6,9,moderate,1853,129,32,200,running,split routine,stretching
+23,male,169.7,91.4,8,moderate,1953,146,33,209,HIIT,resistance bands,yoga
+24,female,157.6,56.4,12,moderate,2049,68,53,291,walking,split routine,dynamic warmup
+28,female,155.9,46.6,3,sedentary,2042,56,63,279,jogging,split routine,stretching
+35,male,164.2,83.4,4,light,1663,133,39,180,HIIT,bodyweight,pilates
+28,female,166.9,48.7,5,sedentary,2532,78,60,309,jogging,split routine,dynamic warmup
+20,male,165.7,71.4,5,moderate,2003,107,35,159,walking,bodyweight,stretching
+20,male,172.2,69.4,11,light,2285,83,48,217,HIIT,resistance bands,yoga
+23,male,175.8,83.4,7,light,1940,125,41,202,swimming,gym full-body,stretching
+18,female,153.5,66.0,4,moderate,1966,99,60,182,walking,resistance bands,pilates
+22,female,164.1,56.9,12,moderate,2385,68,61,269,swimming,gym full-body,yoga
+32,male,172.3,82.3,12,active,1885,123,57,210,running,gym full-body,yoga
+32,male,167.3,71.3,10,moderate,2129,107,59,154,HIIT,resistance bands,pilates
+38,male,181.7,66.2,6,very active,2075,79,64,212,swimming,resistance bands,pilates
+36,female,172.3,63.5,11,active,2344,76,40,253,jogging,bodyweight,dynamic warmup
+33,female,165.4,60.2,9,very active,2269,72,65,241,swimming,split routine,dynamic warmup
+34,female,157.7,40.1,5,light,2262,64,67,348,walking,split routine,pilates
+35,male,187.5,62.2,6,moderate,2448,100,67,343,jogging,split routine,dynamic warmup
+19,male,169.8,75.3,12,moderate,1876,113,60,158,walking,resistance bands,stretching
+36,male,174.8,65.8,10,moderate,2419,79,46,220,swimming,resistance bands,pilates
+40,male,162.5,72.5,5,very active,1894,109,48,227,HIIT,bodyweight,stretching
+29,male,171.5,56.0,10,sedentary,2174,67,61,218,HIIT,resistance bands,yoga
+33,female,166.5,54.5,11,sedentary,2126,65,42,236,cycling,split routine,dynamic warmup
+23,female,174.0,52.4,11,light,2360,84,60,254,jogging,split routine,yoga
+36,male,167.3,77.0,10,very active,2123,116,46,165,cycling,gym full-body,stretching
+25,male,177.3,67.9,6,light,2310,81,65,214,jogging,bodyweight,pilates
+39,female,142.7,62.7,9,very active,1696,100,43,145,running,bodyweight,yoga
+36,male,176.3,66.9,7,moderate,2237,80,52,275,HIIT,bodyweight,pilates
+34,male,165.0,67.6,8,light,2407,81,46,247,jogging,gym full-body,yoga
+22,female,142.8,35.7,8,moderate,2596,57,68,332,running,gym full-body,pilates
+30,female,172.3,58.7,10,light,2226,70,65,260,HIIT,gym full-body,stretching
+29,female,175.2,65.3,7,sedentary,2489,78,47,270,running,bodyweight,dynamic warmup
+29,female,149.4,57.7,11,light,1984,87,59,189,cycling,gym full-body,stretching
+39,female,162.3,58.4,3,active,2432,70,61,243,swimming,gym full-body,yoga
+23,male,166.2,68.9,11,active,2427,83,40,205,jogging,split routine,yoga
+20,female,164.4,65.1,4,moderate,2454,78,57,216,cycling,split routine,stretching
+40,male,159.6,72.1,4,moderate,2038,108,48,152,swimming,gym full-body,stretching
+38,female,160.1,56.3,8,very active,2157,68,60,245,HIIT,bodyweight,yoga
+19,male,152.7,78.4,7,moderate,1604,125,36,157,swimming,resistance bands,yoga
+21,male,168.1,63.7,5,sedentary,2191,76,60,269,walking,resistance bands,dynamic warmup
+28,female,164.1,50.2,8,very active,2307,60,54,237,jogging,resistance bands,dynamic warmup
+27,female,178.8,77.0,3,very active,2369,92,49,233,jogging,gym full-body,yoga
+21,female,148.1,68.4,12,light,1707,109,48,167,swimming,bodyweight,yoga
+37,female,157.6,68.4,5,active,2098,103,56,230,running,gym full-body,dynamic warmup
+35,male,161.6,61.2,6,light,2135,73,59,254,walking,gym full-body,stretching
+21,male,177.2,68.5,4,sedentary,2257,82,41,269,jogging,resistance bands,stretching
+38,male,174.3,66.9,9,active,2204,80,43,222,swimming,resistance bands,yoga
+36,male,163.8,76.9,7,moderate,2101,115,54,158,HIIT,split routine,stretching
+24,female,160.3,46.0,8,active,2406,74,64,349,HIIT,split routine,stretching
+31,female,162.0,43.0,9,active,2617,69,50,308,HIIT,resistance bands,stretching
+27,female,157.0,51.0,11,active,2265,61,47,279,jogging,bodyweight,stretching
+21,female,158.0,65.5,4,light,1828,98,50,196,swimming,bodyweight,yoga
+31,female,160.3,67.7,6,sedentary,2116,102,40,213,swimming,bodyweight,dynamic warmup
+40,female,152.5,57.0,12,active,2405,68,53,299,walking,split routine,yoga
+30,female,157.0,46.6,8,sedentary,2359,56,65,237,cycling,resistance bands,pilates
+19,female,172.8,56.5,10,light,2422,68,55,288,cycling,gym full-body,stretching
+26,male,151.8,70.4,10,sedentary,1636,113,52,220,cycling,split routine,stretching
+24,female,159.5,63.8,3,sedentary,2096,96,58,160,swimming,gym full-body,dynamic warmup
+40,male,174.5,62.0,7,sedentary,2482,74,61,274,cycling,resistance bands,yoga
+40,female,156.0,42.2,10,active,2545,68,60,329,jogging,split routine,pilates
+31,male,171.4,77.7,6,moderate,1804,117,48,181,running,split routine,stretching
+18,male,181.0,74.1,5,active,2152,89,65,207,walking,gym full-body,stretching
+31,female,163.5,61.9,8,light,2142,74,43,257,swimming,split routine,stretching
+37,female,159.0,57.2,9,sedentary,2198,69,43,266,HIIT,split routine,dynamic warmup
+35,female,163.6,74.0,12,sedentary,2121,111,38,182,cycling,resistance bands,stretching
+35,female,166.0,46.5,10,moderate,2679,74,68,310,HIIT,split routine,dynamic warmup
+27,male,173.7,52.9,9,light,2250,85,50,332,cycling,resistance bands,dynamic warmup
+21,female,170.5,75.5,3,light,2083,113,51,154,swimming,gym full-body,pilates
+19,female,161.5,60.0,4,moderate,2295,72,62,284,running,gym full-body,dynamic warmup
+36,female,153.3,59.0,11,very active,2196,88,39,177,HIIT,split routine,pilates
+23,female,161.1,41.6,12,moderate,2558,67,53,340,running,split routine,stretching
+40,female,179.0,57.3,6,sedentary,2290,92,70,284,walking,gym full-body,pilates
+37,female,161.3,56.0,12,active,2207,67,53,242,jogging,resistance bands,stretching
+28,female,152.7,54.5,4,active,2049,65,64,300,running,resistance bands,stretching
+28,female,169.1,66.4,10,sedentary,2329,80,55,298,HIIT,split routine,yoga
+33,female,148.6,40.9,3,light,2012,49,49,291,walking,bodyweight,pilates
+25,male,167.0,81.0,3,sedentary,2041,122,51,185,HIIT,split routine,yoga
+21,male,163.1,83.0,3,very active,1903,133,35,204,HIIT,bodyweight,dynamic warmup
+38,male,170.9,60.7,10,moderate,2320,73,58,242,walking,resistance bands,stretching
+39,male,177.6,82.2,7,active,2022,123,46,207,HIIT,resistance bands,stretching
+34,male,165.3,64.8,11,sedentary,2427,78,43,289,swimming,split routine,stretching
+28,male,157.1,67.3,8,very active,1808,101,49,158,HIIT,bodyweight,stretching
